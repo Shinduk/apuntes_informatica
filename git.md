@@ -11,7 +11,7 @@
 * Guardar los cambios en local, antes de subirlos `git commit -a -m "notas"`
 
 * Subir los cambios guardados al repositorio `git push origin master`
-* Subir los cambios guardados a otro repositorio `git remote add origin "url"
+* Subir los cambios guardados a otro repositorio `git remote add origin "url"`
 
 * Actualizar tu repositorio local, con datos ya subidos a github `git pull`
 
